@@ -1,0 +1,1 @@
+export const GET_FBI_WANTED = 'GET_FBI_WANTED';
